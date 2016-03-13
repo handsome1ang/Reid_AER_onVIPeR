@@ -1,0 +1,5 @@
+# Matlab temp data and files
+
+*.mat
+*.fig
+*.txt
