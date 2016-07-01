@@ -2,7 +2,7 @@
 This is the Matlab code of our work 
 Zhaoju Li, Zhenjun Han, Qixiang Ye:"Person Re-identification via AdaBoost Ranking Ensemble". In ICIP 2016.
 It has been conducted on Windows System, Ubuntu System untested. 
-Two demos are provied:
+Two demos are provided:
 - Ada_demo.m    : single experiment for validation
 - Average_ada.m : ten trials of experiments for final evaluation.
 
@@ -16,7 +16,7 @@ This package is licensed under BSD Licence.
 If you use this code, please kindly cite our work in your publications if it helps your research:
 
 	@inproceedings{,
- 		title = {},
+ 		title = {Person Re-identification via AdaBoost Ranking Ensemble},
  		author={Zhaoju, Li },
  		booktitle = {IEEE International Conference on Image Processing (ICIP)},
  		year = {2016}

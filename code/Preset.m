@@ -12,9 +12,8 @@ iterations=36;
 littleFeat=0;
 Partition;
 
-
-%metrics= {'XQDA','kLFDA','svmml','KCCA'};
-metrics= {'XQDA'};
+metrics= {'XQDA','kLFDA','svmml','KCCA'};
+%metrics= {'kLFDA'};
 
 if littleFeat
        featname={'feat1','feat2'};
@@ -23,7 +22,7 @@ if littleFeat
     load('feats_6s.mat');
 else
   featname={'feat1','feat2','feat3','feat4','feat5','feat6'};
-%    featname={'feat6'};
+%    featname={'feat1'};
     featureDir = '../Features/';
     addpath(featureDir);
  %load features

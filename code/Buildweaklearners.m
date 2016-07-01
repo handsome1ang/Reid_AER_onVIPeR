@@ -56,7 +56,7 @@ for i=1:length(featname)
             case {'kLFDA'}
                 
                 %set the kernel fof LFDA
-                AlgoOption.kernel='linear';
+                AlgoOption.kernel='chi2';
                 AlgoOption.dataname = weakLearner{index}.featName;
                 AlgoOption.name=weakLearner{index}.metricName;
                 AlgoOption.npratio =0; % npratio is not required.
