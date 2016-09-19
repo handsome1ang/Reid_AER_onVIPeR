@@ -42,4 +42,3 @@ display(['total time is ',num2str(totaltime),'s']);
 % loginfo='v0.1';
 
 save([resultDir loginfo '.mat'],'rank');
-%canon;

@@ -12,7 +12,7 @@ iterations=36;
 littleFeat=0;
 Partition;
 
-metrics= {'XQDA','kLFDA','svmml','KCCA'};
+metrics= {'XQDA','kLFDA','svmml'};
 %metrics= {'kLFDA'};
 
 if littleFeat

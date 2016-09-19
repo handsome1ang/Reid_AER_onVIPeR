@@ -35,7 +35,7 @@ If you use oLFDA, kLFDA, LOMO_XQDA, svmml or WHOS in this package, please refer 
     Shengcai Liao, Yang Hu, Xiangyu Zhu, and Stan Z. Li. "Person re-identification by local maximal occurrence representation and metric learning" In CVPR, 2015.
 - WHOS
     Lisanti, G. and Masi, I. and Bagdanov, A. and Del Bimbo, A "Person Re-identification by Iterative Re-weighted Sparse Ranking" In PAMI, 2014.
-I would like to thank these kind researchers who opened their codes. That helps a lot to those ones like me, especially when I started my research work and built my first framework as a fresh man.
+I would like to thank these kind researchers who opened their codes. That helps a lot to those ones like mewhen I started my research work and build my first framework as a fresh man.
 
 ##Version: 0.1
 - Date: 2016-02-01
