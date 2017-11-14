@@ -11,11 +11,11 @@ pcadim=600;
 iterations=36;
 Partition;
 
-metrics= {'XQDA','kLFDA','svmml'};
-%metrics= {'kLFDA'};
+% metrics= {'XQDA','kLFDA','svmml'};
+metrics= {'svmml'};
 
-  featname={'feat1','feat2','feat3','feat4','feat5','feat6'};
-%    featname={'feat1'};
+%   featname={'feat1','feat2','feat3','feat4','feat5','feat6'};
+   featname={'feat1'};
     featureDir = '../Features/';
     addpath(featureDir);
  %load features
